@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @prubio29
+- 🌱 I’m currently learning: Doctrina Social Cristiana y habilidades universitarias, filosofia de la persona humana, ...
+- 💞️ I’m looking to collaborate on UNIVAG como maestro y sacerdote en San Juan ded Amula, Jalisco, Maxico ...
+- 📫 How to reach me On my email or my cell in Jalico Mexico 317 113 9605 ...
+
+<!---
+prubio29/prubio29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
